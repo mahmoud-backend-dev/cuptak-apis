@@ -1,0 +1,4 @@
+.env
+/node_modules
+/ecosystem.config.cjs
+/CupTak.postman_collection.json
